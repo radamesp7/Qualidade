@@ -7,8 +7,8 @@
 <br>. Radamés Pereira
 
 # Ferramentas:
-. Swot
-<br>. 5w2h
+. SWOT
+<br>. 5W2H
 <br>. Matriz de Esforço
 <br>. Ferramenta de verificação
 
