@@ -2,7 +2,7 @@
 . Taisi Aparecida de Moraes
 <br>. Milene Ap. Primmaz
 <br>. Izelda Moro
-<br>. Prof. Eloisa Produção
+<br>. Prof. Elisangela Pinheiro Produção
 <br>. Gabriela
 <br>. Radamés Pereira
 
