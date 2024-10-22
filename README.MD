@@ -1,14 +1,14 @@
 # Participantes:
-##. Taisi Aparecida de Moraes
-##. Milene Ap. Primmaz
-##. Izelda Moro
-##. Prof. Eloisa Produção
-##. Gabriela
-##. Radamés Pereira
+<br>. Taisi Aparecida de Moraes
+<br>. Milene Ap. Primmaz
+<br>. Izelda Moro
+<br>. Prof. Eloisa Produção
+<br>. Gabriela
+<br>. Radamés Pereira
 
 # Ferramentas:
-##. Swot
-##. 5w2h
-##. Matriz de Esforço
-##. Ferramenta de verificação
+<br>. Swot
+<br>. 5w2h
+<br>. Matriz de Esforço
+<br>. Ferramenta de verificação
 
